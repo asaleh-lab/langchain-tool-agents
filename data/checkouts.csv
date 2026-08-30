@@ -1,0 +1,13 @@
+checkout_id,member,tool_name,category,days_out,late_fee_usd,condition
+1,Amina Lee,circular saw,power,14,12.00,good
+2,Jon Ruiz,6-foot ladder,ladder,3,0.00,good
+3,Priya Shah,post-hole digger,garden,21,18.00,fair
+4,Marco Diaz,stud finder,measuring,2,0.00,good
+5,Amina Lee,orbital sander,power,9,6.00,good
+6,Sofia Chen,tile cutter,tile,5,0.00,good
+7,Jon Ruiz,circular saw,power,11,10.00,scratched
+8,Dev Patel,pressure washer,outdoor,7,0.00,good
+9,Priya Shah,12-foot ladder,ladder,16,14.00,good
+10,Marco Diaz,angle grinder,power,4,0.00,good
+11,Sofia Chen,garden fork,garden,8,4.00,good
+12,Dev Patel,laser level,measuring,12,8.00,good
