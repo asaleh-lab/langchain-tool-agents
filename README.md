@@ -38,3 +38,11 @@ python src/manual_tool_call.py
 ```powershell
 python src/dataframe_agent.py
 ```
+
+## Let's ask the same facts in SQLite
+
+```powershell
+python src/sql_agent.py
+```
+
+Same catalog, same question (late fees by category). Only the store changes: pandas over the CSV, then SQL over `library.sqlite`. Garden should still win. The dollars should match. The plot is only on the DataFrame path.
