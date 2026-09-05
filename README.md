@@ -32,3 +32,9 @@ python src/lcel_chain.py
 ```powershell
 python src/manual_tool_call.py
 ```
+
+## Let's ask the checkout CSV in plain English
+
+```powershell
+python src/dataframe_agent.py
+```
