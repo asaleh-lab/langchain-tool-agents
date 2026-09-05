@@ -20,3 +20,15 @@ Put your OpenAI API key in `.env`.
 ```powershell
 python src/custom_tools.py
 ```
+
+## Let's pipe a prompt through an LCEL chain
+
+```powershell
+python src/lcel_chain.py
+```
+
+## Let's validate the tool call, then run it ourselves
+
+```powershell
+python src/manual_tool_call.py
+```
