@@ -15,31 +15,31 @@ copy .env.example .env
 
 Put your OpenAI API key in `.env`.
 
-## Let's bind custom tools and print the model's tool call
+## Bind custom tools and print the model's tool call
 
 ```powershell
 python src/custom_tools.py
 ```
 
-## Let's pipe a prompt through an LCEL chain
+## Pipe a prompt through an LCEL chain
 
 ```powershell
 python src/lcel_chain.py
 ```
 
-## Let's validate the tool call, then run it ourselves
+## Validate the tool call, then run it ourselves
 
 ```powershell
 python src/manual_tool_call.py
 ```
 
-## Let's ask the checkout CSV in plain English
+## Ask the checkout CSV in plain English
 
 ```powershell
 python src/dataframe_agent.py
 ```
 
-## Let's ask the same facts in SQLite
+## Ask the same facts in SQLite
 
 ```powershell
 python src/sql_agent.py
